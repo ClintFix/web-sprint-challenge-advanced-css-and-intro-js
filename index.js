@@ -293,7 +293,7 @@ function addArtist(array){
     array.push({
       id: 20,
       name: "Clint Fix",
-      years: 1986 - 2021,
+      years: "1986 - 2021",
       genre: "Web Design", 
       nationality: "American",
       bio: "Clint Fix is a WEB40 student in Lambda School. He is switching careers from Mechanical Engineering"
